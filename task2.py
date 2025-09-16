@@ -6,3 +6,4 @@ https://www.aren.co.ke/payroll/taxrates.htm
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
 '''
+
